@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **2nd Year Computer Science** student passionate about **Machine Learning & AI**
+- 🎓 **3rd Year Computer Science** student passionate about **Machine Learning & AI**
 - 🤖 Currently diving deep into **Deep Learning**, **Neural Networks**, and **Data Science**
 - 💡 Love solving complex problems with **algorithms** and **statistical models**
 - 🌱 Always learning and exploring new **ML frameworks** and **technologies**
