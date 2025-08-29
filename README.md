@@ -14,6 +14,7 @@
 - 🌱 Always learning and exploring new **ML frameworks** and **technologies**
 - 🎯 Goal: To become a **Machine Learning Engineer** and contribute to **AI innovation**
 - 📫 How to reach me: **Rudranshupandey958@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/rudranshu89)**
+- 💭 achieved GFG 160 days of coding certificate and enjoying the journey.
 
 ---
 
