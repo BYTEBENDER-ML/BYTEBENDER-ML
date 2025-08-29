@@ -106,7 +106,7 @@ class AspiringMLEngineer:
             "Advanced Algorithms"
         ]
         self.goals = {
-            "2025": "Complete ML Specialization & Build 5+ Projects",
+            "2025": "Compete for the best in this domain",
             "2026": "Secure ML Engineering Internship",
             "Future": "Contribute to cutting-edge AI research"
         }
@@ -150,7 +150,7 @@ class AspiringMLEngineer:
   <a href="mailto:Rudranshupandey958@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.kaggle.com/rudranshupandey">
+  <a href="https://www.kaggle.com/beastboy958">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
